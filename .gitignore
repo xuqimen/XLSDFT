@@ -7,4 +7,5 @@ xlsdft*
 *~
 *core.[0-9]*
 ?*tests/
-
+__pycache__
+.*.sw[op]
