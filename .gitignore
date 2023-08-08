@@ -1,0 +1,10 @@
+*.udb
+*.o
+.DS_Store
+xlsdft*
+*.vscode*
+.env*
+*~
+*core.[0-9]*
+?*tests/
+
