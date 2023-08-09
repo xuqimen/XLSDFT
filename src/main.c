@@ -1,6 +1,8 @@
 #include <stdio.h>
 #include <mpi.h>
 
+#include "types.h"
+
 int main(int argc, char **argv) {
     MPI_Init(&argc,&argv);
     int rank, size;
